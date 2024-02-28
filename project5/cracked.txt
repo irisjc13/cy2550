@@ -24,3 +24,10 @@ markatoint:cookie
 struping:diamond
 bigghappy:12345
 twitterni:abc123
+streplon:12345678
+lynnaps:1q2w3e
+ninjakeeper:654321
+dipityness:porsche
+shortoeve:starwars
+keymialia:zxcvbn
+nailitro:555555
